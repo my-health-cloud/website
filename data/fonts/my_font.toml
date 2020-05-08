@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "Open Sans:400,600|Open Sans:400,400italic,600|Roboto+Mono"
+
+# Font families
+heading_font = "Open Sans"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Roboto Mono"
