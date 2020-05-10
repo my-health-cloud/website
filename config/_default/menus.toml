@@ -13,10 +13,10 @@
 #  url = "portfolio/"
 #  weight = 20
 
-[[main]]
-  name = "Technology"
-  url = "radar/"
-  weight = 30
+#[[main]]
+#  name = "Technology"
+#  url = "radar/"
+#  weight = 30
 
 [[main]]
   name = "About"
@@ -25,6 +25,6 @@
 
 [[main]]
   name = "Contact"
-  url = "contact/"
+  url = "about/#contact"
   weight = 50
 
